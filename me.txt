@@ -1,0 +1,5 @@
+{{#user}
+Name: Md.Jakir Hossain
+Skills: HTML, CSS,bootstrap,tailwind, JS, Next.js,firebase,mongodb,express js,React js, 
+Email: jakirhossain574413@gmail.com
+{{/user}}
